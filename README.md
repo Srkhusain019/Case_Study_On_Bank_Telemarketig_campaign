@@ -109,7 +109,6 @@ Developed new derived features:
 - Weekdays like **Tuesday and Thursday** saw higher conversion rates.
   
 <img width="1185" height="651" alt="image" src="https://github.com/user-attachments/assets/c955509e-45f7-46a7-a229-6902edce60e4" />
-<img width="1185" height="651" alt="Screenshot 2025-10-05 152156" src="https://github.com/user-attachments/assets/a82f6c8b-70ca-409f-97f7-c6a8cfc6bb30" />
 <img width="1191" height="643" alt="Screenshot 2025-10-05 152116" src="https://github.com/user-attachments/assets/5d685fd1-a1b2-43f2-b46f-10638ee3e0eb" />
 <img width="1166" height="700" alt="Screenshot 2025-10-05 152050" src="https://github.com/user-attachments/assets/3f56166e-1587-49ca-bf72-0d38b2365984" />
 
